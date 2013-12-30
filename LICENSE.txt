@@ -1,0 +1,15 @@
+The files in this repository are copyright 1994 by Open Market, Inc.,
+which copyright is now owned by Soverain Software LLC. Permission is
+hereby granted for these files to be viewed and this repository to be
+forked for informational and reference purposes only.
+
+No express or implied grant of a license to use, adapt, or incorporate
+this code into other software is provided here.
+
+The technology embodied here may be covered under US patent 5,715,314
+and other US and foreign patents.
+
+All other rights reserved.
+
+Questions about this code and this license may be sent to
+code@soverain.com.
