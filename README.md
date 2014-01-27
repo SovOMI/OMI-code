@@ -1,8 +1,8 @@
-
 US Patent 5,715,314 Appendix G Source Code 
 =============================
 
-Andrew Payne, Larry Stewart, and Win Treese  
+[Andrew Payne](https://github.com/payne92), Larry Stewart, and [Win Treese](https://github.com/treese)
+
 December 2013
 
 This repository contains a machine-readable copy of the source code from Appendix G of US Patent 5,715,314 "Network Sales System". The code is in the `pay1094` subdirectory.
